@@ -1,0 +1,20 @@
+.card-all {
+  width: 90%;
+  margin: auto;
+  margin-top: 10vh;
+  padding: 5vh;
+  border-radius: 1vh;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+thead tr th {
+  font-weight: bold;
+}
+
+#logTable thead th {
+  font-size: 14px;
+}
+
+#logTable tbody tr td {
+  font-size: 14px;
+}

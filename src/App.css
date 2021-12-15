@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap');
+*,
+body {
+  font-family: 'Poppins', 'Athiti', sans-serif;
+  font-size: 16px;
+}
+
+input[type='text'] {
+  font-family: 'Poppins', 'Athiti', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+input[type='password'] {
+  font-family: 'Poppins', 'Athiti', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+h5,
+h6 {
+  font-weight: 500;
+  font-size: 1.5rem !important;
+}
+
+a {
+  color: black !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
